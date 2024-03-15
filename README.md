@@ -40,7 +40,7 @@ npm install @qpokychuk/tailwind-input-plugin --save-dev
 <input class="input input-[#B33771] ..." />
 ```
 
-![Screenshot_1](https://user-images.githubusercontent.com/42573149/227128489-f560c61d-8605-4de8-9702-00ba7dfa8125.jpg)
+![Screenshot_1](https://github.com/qp0kycHuk/tailwind-input-plugin/assets/42573149/dbc4bce7-ae83-4577-85f8-462903e4a48f)
 
 
 ## Установка размера поля
@@ -62,7 +62,7 @@ npm install @qpokychuk/tailwind-input-plugin --save-dev
 <input class="input input-[50px] ..." />
 ```
 
-![Screenshot_6](https://user-images.githubusercontent.com/42573149/227129527-85410c6d-4cb7-49da-9ac2-87b8fe2391e1.jpg)
+![Screenshot_2](https://github.com/qp0kycHuk/tailwind-input-plugin/assets/42573149/7ba90f3e-0f98-4a08-90df-58911d7c70d9)
 
 
 ## Установка закругления поля
@@ -76,7 +76,7 @@ npm install @qpokychuk/tailwind-input-plugin --save-dev
 <input class="input rounded-full ..." />
 ```
 
-![Screenshot_4](https://user-images.githubusercontent.com/42573149/227129042-f64b5b24-6956-4164-a9bc-f7a0703fca57.jpg)
+![Screenshot_3](https://github.com/qp0kycHuk/tailwind-input-plugin/assets/42573149/705874d8-bd5d-4d2d-8a57-ac3591d4d310)
 
 
 ## Настройка вашей темы
