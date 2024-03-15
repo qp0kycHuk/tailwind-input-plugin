@@ -4,7 +4,6 @@ const { parseColor, formatColor } = require('tailwindcss/lib/util/color')
 
 const sizeName = '--tw-input-size'
 const colorName = '--tw-input-color'
-const colorLightName = '--tw-input-color-light'
 const sizeVar = 'var(--tw-input-size)'
 const colorVar = 'var(--tw-input-color)'
 
@@ -98,11 +97,6 @@ module.exports = plugin.withOptions(
 
             return {
               [colorName]: string,
-              [colorLightName]: formatColor({
-                mode: 'rgba',
-                color: parsed.color,
-                alpha: options.lightColorOpacity,
-              }),
             }
           },
         },
